@@ -1,0 +1,68 @@
+[
+    {
+        "id" : "1",
+        "ad" : "Televizor",
+        "qiymet" : 1,
+        "miqdar" : 1
+    },
+    {
+        "id" : "2",
+        "ad" : "Monitor Samsung LS27CM501EIXCI",
+        "qiymet" : 430,
+        "miqdar" : 1
+    },
+    {
+        "id" : "3",
+        "ad" : "Notbuk Lenovo LOQ 15IRH8 (82XV007PRK)",
+        "qiymet" : 2550,
+        "miqdar" : 1
+    },
+    {
+        "id" : "4",
+        "ad" : "Gaming mouse Asus ROG Chakram Core",
+        "qiymet" : 170,
+        "miqdar" : 1
+    },
+    {
+        "id" : "5",
+        "ad" : "Web Camera Logitech Brio 300 Full HD Off-White",
+        "qiymet" : 190,
+        "miqdar" : 1
+    },
+    {
+        "id" : "6",
+        "ad" : "Web Camera Defender G-Lens 2597 HD",
+        "qiymet" : 60,
+        "miqdar" : 1
+    },
+    {
+        "id" : "7",
+        "ad" : "Samsung Galaxy S23 Ultra (SM-S918B) 12/256 GB Black",
+        "qiymet" : 2900,
+        "miqdar" : 1
+    },
+    {
+        "id" : "8",
+        "ad" : "Samsung Galaxy S23 (SM-S911B) 8/256 GB Black",
+        "qiymet" : 1750,
+        "miqdar" : 1
+    },
+    {
+        "id" : "9",
+        "ad" : "Samsung Galaxy S20+ Dual (SM-G985F) Red",
+        "qiymet" : 1740,
+        "miqdar" : 1
+    },
+    {
+        "id" : "10",
+        "ad" : "Honor Magic 5 Pro 512 GB Meadow Green",
+        "qiymet" :2250,
+        "miqdar" : 1
+    },
+    {
+        "id" : "11",
+        "ad" : "Google Pixel 7 8/128 GB Snow",
+        "qiymet" : 2000,
+        "miqdar" : 1
+    }
+]
